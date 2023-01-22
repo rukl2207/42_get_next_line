@@ -1,0 +1,7 @@
+# .gitignore
+.DS_Store
+*.swp
+# *test*
+*main*
+# *.txt
+*.out
